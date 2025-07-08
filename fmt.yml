@@ -6,12 +6,8 @@ nocite: |
   @*
 header-includes: |
   <style>
-  div.csl-bib-body>div:nth-of-type(odd) {
-    background: #e0e0e0;
-  }
   div.csl-entry {
-    padding: 0.2em;
+    padding: 0.3em;
   }
   </style>
 ...
-
